@@ -19,6 +19,6 @@ Why: Because we're always learning
 | 1              | **2025-01-22 | ? | ? |
 
 ## Membership
-* Faculty Advisor: [github.com/alonzi](github.com/alonzi)
+* Faculty Advisor: [github.com/alonzi](www.github.com/alonzi)
 * Founding Members:
 * Members: 
