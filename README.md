@@ -13,10 +13,10 @@ Why: Because we're always learning
 ```
 
 ## Table of Meetings
-| Meeting Number | Date       | Attendance | Topic                 |
-|----------------|------------|------------|-----------------------|
-| 0              | 2025-01-15 | 7          | Standard Normal Plots |
-| 1              | **2025-01-22 | ? | ? |
+| Meeting Number | Date       | Attendance | Topic                 | Code |
+|----------------|------------|------------|-----------------------|------|
+| 0              | 2025-01-15 | 7          | Standard Normal Plots | [link](code/m000)
+| 1              | **2025-01-22 | ? | ? | |
 
 ## Membership
 * Faculty Advisor: [github.com/alonzi](https://www.github.com/alonzi)
