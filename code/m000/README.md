@@ -26,4 +26,4 @@ Cursor can be used to enhance efficency through completing tedious/time-consumin
 
 ***Announcements***
 
-Next meeting will be in the board room at the SDS @ 16:00 (4:00 P.M.), future locations TBD. (Those interested are welcome to join)
+Next meeting will be in the board room at the SDS @ 16:00 (4:00 P.M.). (Those interested are welcome to join)
