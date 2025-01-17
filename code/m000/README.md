@@ -18,13 +18,13 @@
 
 ***Mr. Alonzi (lpa2a)***
 
-Addis, Abel Hailegiorgis (jhg2ef),
-Gurley, Will Emory (pqh9zb),
-Healy, Ryan MacKenzie (bnz9cu),
-Coleman, Jack David (wug8vn),
-Earl, Rachel Elizabeth (swt2vv),
-Brewczak, Caroline Evageline (vyb7mr),
-Sheth, Kalin Arpan (nxy2wd)
+Abel Addis (jhg2ef),
+(pqh9zb),
+(bnz9cu),
+(wug8vn),
+(swt2vv),
+(vyb7mr),
+(nxy2wd)
 
 ***Discussion Highlights***
 
