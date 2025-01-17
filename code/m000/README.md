@@ -10,20 +10,28 @@
   
   Briefly went over the capabilities of Cursor
   Created bell curve graphs through the use of cursor (Programming Languages - Python and R)
-  Seemless transitioned from Python to R through the use of Cursor's AI tool
+  Seemlessly transitioned from Python to R through the use of Cursor's AI tool
   
   ***Future***: Optimize Cursor to build a cool app
 
 **Attendees:** 
 
-Mr. Alonzi (lpa2a)
+***Mr. Alonzi (lpa2a)***
 
-Addis, Abel Hailegiorgis (jhg2ef),(pqh9zb),(bnz9cu),(wug8vn),(swt2vv),(vyb7mr),(nxy2wd)
+Abel Addis (jhg2ef),
+(pqh9zb),
+(bnz9cu),
+(wug8vn),
+(swt2vv),
+(vyb7mr),
+(nxy2wd)
 
-**Discussion Highlights**
+***Discussion Highlights***
 
 Cursor can be used to enhance efficency through completing tedious/time-consuming tasks. Very useful editor and debugger to resolve any programming problem. No coding experience required for use (very practical)
 
 ***Announcements***
 
-Next meeting will be in the board room at the SDS @ 16:00 (4:00 P.M.). (Those interested are welcome to join)
+Next meeting will be in the board room at the SDS @ 16:00 (4:00 P.M.) 
+
+*****Those interested are welcome to join!*****
