@@ -13,10 +13,11 @@ Why: Because we're always learning
 ```
 
 ## Table of Meetings
-| Meeting Number | Date       | Attendance | Topic                 | Code |
-|----------------|------------|------------|-----------------------|------|
-| 0              | 2025-01-15 | 7          | Standard Normal Plots | [link](code/m000)
-| 1              | **2025-01-22** | ? | ? | |
+| Meeting Number | Date       | Attendance | Topic                         | Code              |
+|----------------|------------|------------|-------------------------------|-------------------|
+| 0              | 2025-01-15 | 7          | Standard Normal Plots         | [link](code/m000) |
+| 1              | 2025-01-22 | 5          | Analysing M&M Data from Class | [link](code/m001) |
+| 2              | 2025-01-29 | 6          | Cleaning Data with AI         | [link](code/m002) |
 
 ## Membership
 * Faculty Advisor: [github.com/alonzi](https://www.github.com/alonzi)
