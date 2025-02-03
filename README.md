@@ -18,7 +18,7 @@ Why: Because we're always learning
 | 0              | 2025-01-15 | 7          | Standard Normal Plots         | [link](code/m000) |
 | 1              | 2025-01-22 | 5          | Analysing M&M Data from Class | [link](code/m001) |
 | 2              | 2025-01-29 | 6          | Cleaning Data with AI         | [link](code/m002) |
-| 3              | **2025-02-05** | | Monte-carlo Techniques | |
+| 3              | **2025-02-05** | | Monte Carlo Techniques | |
 
 ## Membership
 * Faculty Advisor: [github.com/alonzi](https://www.github.com/alonzi)
