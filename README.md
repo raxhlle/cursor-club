@@ -25,3 +25,7 @@ Why: Because we're always learning
 * Faculty Advisor: [github.com/alonzi](https://www.github.com/alonzi)
 * Founding Members: Abel Addis, 
 * Members: 
+
+
+## Articles Read
+0. [Generative AI for Data Science 101: Coding Without Learning to Code by Bien & Mukherjee](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2432397)
