@@ -29,3 +29,4 @@ Why: Because we're always learning
 
 ## Articles Read
 0. [Generative AI for Data Science 101: Coding Without Learning to Code by Bien & Mukherjee](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2432397)
+   * Takeaway: The main skill is prompt engineering. They give 3 principles for better prompts to produce code
