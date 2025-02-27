@@ -19,7 +19,9 @@ Why: Because we're always learning
 | 1              | 2025-01-22 | 5          | Analysing M&M Data from Class | [link](code/m001) |
 | 2              | 2025-01-29 | 6          | Cleaning Data with AI         | [link](code/m002) |
 | 3              | 2025-02-05 | 6          | Monte Carlo Monty Hall        | [link](code/m003) |
-| 4              | **2025-02-16** | | | [link](code/m004)|
+| 4              | 2025-02-16 | 6          | Making an app                 | [link](code/m004)|
+| 5              | **2025-02-23** | | | [link](code/m005)|
+
 
 ## Membership
 * Faculty Advisor: [github.com/alonzi](https://www.github.com/alonzi)
