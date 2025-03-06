@@ -17,3 +17,5 @@ Our app ```main.dart``` requires flutter. however flutter comes with a git repo 
 path to android sdk: ```~/Android```
 
 path to flutter: ```~/Desktop/flutter```
+
+we should probably be using Android Studio -- https://developer.android.com/studio?gad_source=1&gclsrc=ds
