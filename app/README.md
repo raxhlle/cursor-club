@@ -11,3 +11,8 @@
 
 ## Important Note
 Our app ```main.dart``` requires flutter. however flutter comes with a git repo built in. please note the ```install-flutter.sh``` script for details on setting up fllutter. You also have to make sure that your path is set correctly.
+
+### Super important note
+
+path to android sdk: ~/Android
+path to flutter: ~/Desktop/flutter
