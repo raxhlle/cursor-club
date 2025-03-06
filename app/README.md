@@ -18,4 +18,4 @@ path to android sdk: ```~/Android```
 
 path to flutter: ```~/Desktop/flutter```
 
-we should probably be using Android Studio -- https://developer.android.com/studio?gad_source=1&gclsrc=ds
+we should probably be using Android Studio -- https://developer.android.com/studio
