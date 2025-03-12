@@ -23,6 +23,7 @@ Why: Because we're always learning
 | 5              | 2025-03-05 | 4          | Making an app - set up emulator | [link](app/)    |
 | 6              | **2025-02-23** | | | [link](app/)|
 
+* Current Project - building an app "is the mountain out?"
 
 ## Membership
 * Faculty Advisor: [github.com/alonzi](https://www.github.com/alonzi)
@@ -33,3 +34,6 @@ Why: Because we're always learning
 ## Articles Read
 0. [Generative AI for Data Science 101: Coding Without Learning to Code by Bien & Mukherjee](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2432397)
    * Takeaway: The main skill is prompt engineering. They give 3 principles for better prompts to produce code
+
+## Future Projects
+* Make this visualization [link](https://www.nytimes.com/interactive/2025/01/30/science/mars-landing-trump.html?smid=nytcore-android-share)
