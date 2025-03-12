@@ -19,8 +19,8 @@ Why: Because we're always learning
 | 1              | 2025-01-22 | 5          | Analysing M&M Data from Class | [link](code/m001) |
 | 2              | 2025-01-29 | 6          | Cleaning Data with AI         | [link](code/m002) |
 | 3              | 2025-02-05 | 6          | Monte Carlo Monty Hall        | [link](code/m003) |
-| 4              | 2025-02-26 | 6          | Making an app                 | [link](code/m004) |
-| 5              | 2025-03-05 | 4          | Making an app - set up emulator | [link](app/)    |
+| 4              | 2025-02-26 | 6          | Making an app - install java, flutter                 | [link](code/m004) |
+| 5              | 2025-03-05 | 4          | Making an app - get android emulator running | [link](app/)    |
 | 6              | **2025-03-19** | | | [link](app/)|
 
 * Current Project - building an app "is the mountain out?"
