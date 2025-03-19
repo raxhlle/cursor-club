@@ -1,5 +1,13 @@
 # question_app
 
+## Usage
+
+in the folder ```cursor-club/question_app```
+```
+flutter emulators --launch flutter_emulator --cold
+flutter run  
+```
+# ai gen stuff
 A new Flutter project.
 
 ## Getting Started
