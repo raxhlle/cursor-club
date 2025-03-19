@@ -7,6 +7,11 @@ in the folder ```cursor-club/question_app```
 flutter emulators --launch flutter_emulator --cold
 flutter run  
 ```
+
+
+![](https://github.com/UVADS/cursor-club/blob/a12b781d63bb097835bc1a02137e58416884170b/question_app/first-run.png)
+
+
 # ai gen stuff
 A new Flutter project.
 
