@@ -4,6 +4,7 @@
 
 in the folder ```cursor-club/question_app```
 ```
+cd question_app
 flutter emulators --launch flutter_emulator --cold
 flutter run  
 ```

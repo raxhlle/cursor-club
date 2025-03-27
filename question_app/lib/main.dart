@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -121,7 +119,8 @@ class _MyHomePageState extends State<MyHomePage> {
                               ),
                               Text(
                                 '$_correctCount',
-                                style: Theme.of(context).textTheme.headlineMedium,
+                                style:
+                                    Theme.of(context).textTheme.headlineMedium,
                               ),
                             ],
                           ),
@@ -133,7 +132,8 @@ class _MyHomePageState extends State<MyHomePage> {
                               ),
                               Text(
                                 '$_wrongCount',
-                                style: Theme.of(context).textTheme.headlineMedium,
+                                style:
+                                    Theme.of(context).textTheme.headlineMedium,
                               ),
                             ],
                           ),
@@ -153,7 +153,9 @@ class _MyHomePageState extends State<MyHomePage> {
                         children: [
                           Expanded(
                             child: Padding(
-                              padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: 16.0,
+                              ),
                               child: SizedBox(
                                 height: 56,
                                 child: ElevatedButton(
@@ -171,7 +173,9 @@ class _MyHomePageState extends State<MyHomePage> {
                           ),
                           Expanded(
                             child: Padding(
-                              padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: 16.0,
+                              ),
                               child: SizedBox(
                                 height: 56,
                                 child: ElevatedButton(
