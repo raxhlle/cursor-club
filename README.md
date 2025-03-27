@@ -21,7 +21,9 @@ Why: Because we're always learning
 | 3              | 2025-02-05 | 6          | Monte Carlo Monty Hall        | [link](code/m003) |
 | 4              | 2025-02-26 | 6          | Making an app - install java, flutter                 | [link](code/m004) |
 | 5              | 2025-03-05 | 4          | Making an app - get android emulator running | [link](app/)    |
-| 6              | **2025-03-19** | | | [link](app/)|
+| 6              | 2025-03-19 | 4          | Making an app - mountain question            | [link](question_app/)|
+| 7              | 2025-03-26 | 3          | Fighting against vibe coding                 | [link](question_app/)|
+| 8              | **2025-04-02** | | | [link](question_app/)|
 
 * Current Project - building an app "is the mountain out?"
 
