@@ -24,7 +24,7 @@ Why: Because we're always learning
 | 6              | 2025-03-19 | 4          | Making an app - mountain question            | [link](question_app/)|
 | 7              | 2025-03-26 | 3          | Fighting against vibe coding                 | [link](question_app/)|
 | 8              | 2025-04-02 | 4          | strategy session | [link](question_app/)|
-| 9              | **2025-04-09** | | | [link](question_app/)|
+| 9              | **2025-04-16** | | | [link](question_app/)|
 
 * Current Project - building an app "is the mountain out?"
 
